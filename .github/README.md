@@ -1,6 +1,6 @@
 <h1>Dell Vostro 3468 Hackintosh</h1>
 
-<img src="https://raw.githubusercontent.com/HBlanqueto/vostros3468-hackintosh/main/.github/assets/vostro.png" alt="img" align="right" width="220px">
+<img src="https://raw.githubusercontent.com/HBlanqueto/vostro3468-hackintosh/main/.github/assets/vostro.png" alt="img" align="right" width="220px">
 
 ## Disclaimer
 
